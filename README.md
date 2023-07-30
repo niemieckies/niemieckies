@@ -24,6 +24,4 @@ Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
 
 ### Support Me
 
-<p align="left>
-  <a href="https://ko-fi.com/altezik"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-</p>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#ad759c', 'H2H7NPFMV');kofiwidget2.draw();</script> 
