@@ -12,7 +12,7 @@ Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
   />
 </p>
 
-### My Skills
+### Currently working with:
 
 <p align="left">
 <a href="https://www.lua.org/docs.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="36" height="36" alt="Lua" /></a>
