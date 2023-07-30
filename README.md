@@ -25,7 +25,5 @@ Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
 ### Support Me
 
 <p align="left>
-  <a href="https://ko-fi.com/altezik"><img
-    src="https://ko-fi.com/img/githubbutton_sm.svg"
-  /></a>
+  <a href="https://ko-fi.com/altezik"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
 </p>
