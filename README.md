@@ -12,6 +12,8 @@ Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
   />
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1112981662393958401)](https://discord.com/users/1061728165514461185)
+
 ### Currently working with:
 
 <p align="left">
