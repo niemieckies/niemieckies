@@ -3,7 +3,7 @@ Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
 
 * 🗺️ Currently I'm Living in Germany
 * 🏳️ I can communicate through German, English and Polish
-* 📫 Contact: [alt3zik@gmail.com](mailto:alt3zik@gmail.com)
+* 📫 Contact: [alt3zik@gmail.com](mailto:alt3zik@gmail.com) or Discord: altezik
 -----------------------------------------------------------------
 
 <p align = 'left'>
