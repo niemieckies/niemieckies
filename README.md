@@ -1,4 +1,4 @@
-Hello! I'm AlteZ, I'm a Script Developer for the FiveM Community
+Hello! I'm Niemiecki, I'm a Script Developer and 3D Artist for the FiveM Community
 ====================================================================================================================================
 
 * 🗺️ Currently I'm Living in Germany
