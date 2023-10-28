@@ -12,6 +12,10 @@ Hello! I'm Niemiecki, I'm a Script Developer and 3D Artist for the FiveM Communi
   />
 </p>
 
+<p align = 'left'>
+[![trophy](https://github-profile-trophy.vercel.app/?username=niemieckies)]
+</p>
+
 ### Currently working with:
 
 <p align="left">
