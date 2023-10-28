@@ -8,7 +8,7 @@ Hello! I'm Niemiecki, I'm a Script Developer and 3D Artist for the FiveM Communi
 
 <p align = 'left'>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=altezik&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemieckies&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 
