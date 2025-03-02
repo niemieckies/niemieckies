@@ -1,4 +1,4 @@
-Hello! I'm Niemiecki, I'm a Minecraft Modding Developer
+Hello! I'm Niemiecki, I'm a Developer for Minecraft Modding
 ====================================================================================================================================
 
 * 🗺️ Currently I'm Living in Germany
