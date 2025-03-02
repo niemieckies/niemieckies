@@ -1,4 +1,4 @@
-Hello! I'm Niemiecki, I'm a FiveM Developer and a Newbie 3D Artist
+Hello! I'm Niemiecki, I'm a Minecraft Modding Developer
 ====================================================================================================================================
 
 * 🗺️ Currently I'm Living in Germany
