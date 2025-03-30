@@ -1,4 +1,4 @@
-Hello! I'm Niemiecki, I'm a Developer for Minecraft Modding
+Hello! I'm Niemiecki, I'm a 3D Developer for FiveM
 ====================================================================================================================================
 
 * 🗺️ Currently I'm Living in Germany
@@ -20,6 +20,5 @@ Hello! I'm Niemiecki, I'm a Developer for Minecraft Modding
 ### Currently working with:
 
 <p align="left">
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
